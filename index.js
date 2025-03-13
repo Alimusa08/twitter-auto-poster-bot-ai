@@ -1,6 +1,6 @@
 // By VishwaGauravIn (https://itsvg.in)
 
-const GenAI = require("@google/generative-ai");
+// const GenAI = require("@google/generative-ai");
 const { TwitterApi } = require("twitter-api-v2");
 const SECRETS = require("./SECRETS");
 

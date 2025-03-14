@@ -33,7 +33,7 @@ const twitterClient = new TwitterApi({
 //   console.log(text);
 //   sendTweet(text);
 // }
-sendTweet("test");
+sendTweet("another test");
 //run();
 
 async function sendTweet(tweetText) {
